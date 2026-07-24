@@ -4,7 +4,11 @@
 
 # Studio Aura - Landing Page de Design de Interiores
 
-Landing page desenvolvida para o escritório fictício de design de interiores da cliente Marina, criada com o objetivo de prática e aprimoramento de habilidades em desenvolvimento front-end.
+Landing page desenvolvida para um escritório de arquitetura e design de interiores, criada com foco em performance, responsividade e animações avançadas para conversão de clientes.
+
+## Sobre o Projeto
+
+O projeto simula a presença digital de um estúdio de design, destacando portfólio de projetos e identidade visual sofisticada. Desenvolvido para consolidação de fundamentos avançados de front-end e animações baseadas em scroll.
 
 ## Tecnologias e Ferramentas
 
